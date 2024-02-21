@@ -1,3 +1,4 @@
 
 este es un archivo donde se mostraran los updates de la hora aqui debajo: 
 1- Son las 11:56 a.m
+2- Son las 11:58 a.m (Actual)
